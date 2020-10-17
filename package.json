@@ -1,0 +1,19 @@
+{
+  "name": "parse",
+  "version": "1.0.1",
+  "description": "Parse Text",
+  "main": "server.js",
+  "scripts": {
+    "test": "Parse",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Parse"
+  ],
+  "author": "Ponnar",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
